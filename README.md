@@ -116,3 +116,5 @@ deardir watch ./Tests --schema schema.yaml --create --interval 1 --duration 10
 ## 📄 License
 
 MIT
+
+## Tests
